@@ -1,5 +1,7 @@
 # createX
 
+https://knifewifealive.github.io/createX/
+
 Это учебный проект по верстке из плейлиста ютуб канала арокен.ру
 
 Ссылка на плейлист: https://youtube.com/playlist?list=PLNaJj8xMY1XQgYzVhLEFD4WSKqEhj4Sx1&si=r2UpvqSj1x2VTj_O
